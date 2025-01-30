@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error where the Metro bundler would randomly fail to start, resulting in the development server not launching. The error messages were inconsistent and did not provide specific information about the root cause.  This only happened when deploying to a physical device, working fine with an emulator.
